@@ -41,12 +41,12 @@ const Contact = () => {
                 LinkedIn
               </span>
               <a
-                href="https://linkedin.com/in/ankitsingh"
+                href="https://www.linkedin.com/in/singh-ankitkumar/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-serif text-2xl md:text-4xl text-foreground hover:text-primary transition-colors duration-300"
               >
-                /in/ankitsingh
+                /in/singh-ankitkumar/
               </a>
             </div>
           </div>
